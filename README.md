@@ -1,2 +1,2 @@
-# Mi-.basrc
+# Mi-.bahsrc
 Mi bashrc
