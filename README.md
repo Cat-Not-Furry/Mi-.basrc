@@ -1,0 +1,2 @@
+# Mi-.basrc
+Mi bashrc
