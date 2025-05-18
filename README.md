@@ -29,8 +29,8 @@ sudo pacman -S exa
 sudo pacman -S bat
 ```
 ## alias
-. = cd
-, = cd ..
-ls = lista con iconos
-ll = lista con iconos pero con '-l' y '-h'
+. = cd<br>
+, = cd ..<br>
+ls = lista con iconos<br>
+ll = lista con iconos pero con '-l' y '-h'<br>
 ver = bat 'versión mejorada de cat'
