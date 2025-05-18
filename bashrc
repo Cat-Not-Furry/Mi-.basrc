@@ -30,7 +30,7 @@ BOLD='\[\e[1m\]'
 # alias ls='ls --color=auto'
 # alias ll='ls -lah --color=auto'
 
-alias ..='cd ..'
+alias ,='cd ..'
 alias .='cd'
 
 alias ll='exa --icons -lh --color=always'
